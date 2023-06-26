@@ -1,9 +1,4 @@
-<style>
-body {
-  background-color: #0000FF;
-  color: #FFFFFF;
-}
-</style>
+`#0969DA`
 # Reece Stoner
 
 ## Data Scientist | KS5 Maths Lead
