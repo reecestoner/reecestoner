@@ -1,5 +1,5 @@
 
-# Reece Stoner`#0969DA`
+# Reece Stoner
 
 ## Data Scientist | KS5 Maths Lead
 
