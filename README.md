@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am a passionate data scientist with expertise in
 
 - **Programming Languages**: Python, R
 - **Data Analysis**: Pandas, NumPy, Data Visualization
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Database & Querying**: SQL, SQLite
+- **Machine Learning**: Scikit-learn
+- **Database & Querying**: SQL
 - **Version Control**: Git, GitHub
 - **Statistical Analysis**: Hypothesis testing, Regression analysis
 - **Mathematics**: Statistics, Calculus, Linear Algebra
